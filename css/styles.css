@@ -57,24 +57,24 @@ ul {
     color:  #2196F3;
 }
 
+.hero-section{
+    background-color: #2F303A;
+    text-align: center;
+}
 .hero{
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
-    text-align: center;
+    color: #FFFFFF;
 }
 
-.hero-link{
+.hero-button{
     color: #FFFFFF;
     font-weight: 700;
     font-size: 16px;
     line-height: 30px;
     background-color: #2196F3;
     text-decoration: none;
-}
-
-.hero-link-wrapper{
-    text-align: center;
 }
 
 .header{
